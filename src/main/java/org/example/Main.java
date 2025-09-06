@@ -8,3 +8,4 @@ public class Main {
         System.out.println("Saldo: " + cuenta.getSaldo()); // debe imprimir 300
     }
 }
+
